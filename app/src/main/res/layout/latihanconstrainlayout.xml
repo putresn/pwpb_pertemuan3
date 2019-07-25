@@ -44,7 +44,7 @@
         android:layout_marginRight="8dp"
         android:background="#ff6f00"
         android:text="Login"
-        android:textColor="ffffff"
+        android:textColor="#ffffff"
         android:textSize="20sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.523"
